@@ -6,6 +6,6 @@ The file 'data_analysis.pdf' provides the statistical foundations in terms of le
 
 I host a YouTube channel with a series of short videos (screen captures and spoken comments): https://www.youtube.com/playlist?list=PLt1E_JvoRnTYJbdpl1mGmrL7qCLdLzaq9 
 
-The file 'data_analysis_excel_after_captures.xlsx' contains results of data anaylses and the application of Excel functions shown in those videos. 
+The file 'data_analysis_excel_work.xlsx' contains results of data analyses and the application of Excel functions shown in those videos. 
 
 The file 'data_analysis_excel_raw.xlsx' contains raw data used in the file 'data_analysis_excel.xlsx'.
